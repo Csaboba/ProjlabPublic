@@ -1,0 +1,1 @@
+Result of my Software project laboratory course. I did this project with four other college mates of mine. The program is a game that takes place in space, and you control a spaceship to travel across asteroids, drill their outer layers and mine the minerals/resources inside them. Your goal is to gather enough resources to build a space station on one of the asteroids.
